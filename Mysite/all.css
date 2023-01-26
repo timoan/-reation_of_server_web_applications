@@ -1,0 +1,28 @@
+body  {background: url("images/fon1.jpg");
+	   background-size: cover;
+       background-repeat: no-repeat;
+       margin: 0;}
+h1 {color: #000000;
+    font-family: Florence, cursive;
+    font-style: oblique;
+    font-size: 4em;
+    text-align:center;
+    text-shadow: 4px 3px 6px #E0FFFF; 
+    /*background-image: url(images/fon.png);
+    background-repeat:no-repeat;
+    background-origin: border-box;
+    background-position:0 0; 
+    background-size:100% 100%;*/
+    background: rgba(0,0,0,.6);
+    backdrop-filter:grayscale(1) contrast(3) blur(1px); 
+    margin:0;
+    padding:0;
+    height: 120px;}
+#footer {
+    position: fixed; 
+    left: 0; bottom: 0;
+    padding: 0px;
+    background: #000000; 
+    color: #fff;
+    font-size: 0.7em;
+    width: 100%;}

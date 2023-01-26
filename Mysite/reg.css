@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Marck+Script|Pattaya|Underdog');
+.inn {  margin-left: 30%;
+	 margin-top: 6%;
+	 padding: 4%;
+       width: 400px;
+       height: 100%;
+       margin-bottom: 5%;
+       
+       background: rgba(0,0,0,.6);
+       border-radius: 10px;
+
+       font-family: underdog;
+       font-weight: bolder;      
+       line-height: 20px;
+       text-align: left;
+       position: relative;}
+
+.button { margin-left: 80%;
+           }
